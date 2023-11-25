@@ -1,3 +1,7 @@
+![Captura de tela 2023-11-11 101450](https://github.com/Mateusnasciment/sqlc.go/assets/106212780/283dea05-1ad8-4e3c-8eb5-24db8c3d6b14)
+
+
+
 Tabela "users":
 
 id (Chave Primária)
